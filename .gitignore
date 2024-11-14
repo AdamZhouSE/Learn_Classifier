@@ -1,0 +1,7 @@
+.venv
+.idea
+.DS_Store
+__pycache__
+*.zip
+hard_ham
+spam_2
